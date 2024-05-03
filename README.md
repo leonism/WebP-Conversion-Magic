@@ -1,5 +1,7 @@
 ### 🎉 Welcome to the WebP Conversion Magic README! 🎨✨
 
+![screenshot](webp-conversion-magic.png)
+
 This tool is your go-to solution for converting images to WebP format with ease and efficiency. Say goodbye to bulky image files and hello to lightning-fast loading times! 🚀
 
 ### Table of Contents
@@ -42,7 +44,7 @@ Before using this tool, make sure you have the following dependencies installed:
 2. Download and install ImageMagick for Windows.
 3. Clone or download this repository to your local machine.
 4. Open Command Prompt and navigate to the directory containing the script.
-5. Run the script using the command `./convert_images.sh`.
+5. Run the script using the command `./webp-conversion.sh`.
 
 #### Installation Steps on MacOSX
 
@@ -51,7 +53,7 @@ Before using this tool, make sure you have the following dependencies installed:
 3. Install ImageMagick by running `brew install imagemagick`.
 4. Clone or download this repository to your local machine.
 5. Open Terminal and navigate to the directory containing the script.
-6. Run the script using the command `./convert_images.sh`.
+6. Run the script using the command `./webp-conversion.sh`.
 
 #### Installation Steps on Linux
 
@@ -59,7 +61,7 @@ Before using this tool, make sure you have the following dependencies installed:
 2. Install ImageMagick using your package manager. For example, on Ubuntu, you can run `sudo apt-get install imagemagick`.
 3. Clone or download this repository to your local machine.
 4. Open Terminal and navigate to the directory containing the script.
-5. Run the script using the command `./convert_images.sh`.
+5. Run the script using the command `./webp-conversion.sh`.
 
 ### Usage
 
@@ -77,7 +79,7 @@ Simply run the script with the desired configuration parameters to start convert
 ### Examples
 
 ```bash
-./convert_images.sh
+./webp-conversion.sh
 ```
 
 ### Contributing
