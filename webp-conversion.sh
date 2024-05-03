@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the directory containing your images, leaving the last trailing slash empty
-input_dir="/Volumes/DATA/Jekyll/OptikalBahari/assets/img/posts/"
+input_dir="/path/to/your/img"
 
 # Set the quality parameter (0-100, where 100 is the highest quality)
 quality=20
@@ -25,7 +25,7 @@ overwrite=1
 image_widths=(320 640 960 1280 2560)
 
 # Set the output directory for converted images
-output_dir="/Volumes/DATA/Jekyll/OptikalBahari/assets/img/posts/webp/"
+output_dir="/path/to/your/img"
 
 # Find all image files in the specified directory and its subdirectories
 find "$input_dir" -type f \( -iname \*.jpg -o -iname \*.jpeg -o -iname \*.png -o -iname \*.gif \) -print0 |

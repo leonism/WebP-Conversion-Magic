@@ -84,7 +84,7 @@ Simply run the script with the desired configuration parameters to start convert
 
 ### Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request to suggest improvements or new features.
+Contributions are welcome! Feel free to open an issue or submit a pull request to suggest improvements or new features [WebP Conversion Magic](https://github.com/leonism/WebP-Conversion-Magic/)
 
 ### License
 
